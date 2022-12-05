@@ -1,0 +1,28 @@
+{
+  "name": "skippr",
+  "description": "Events Management App",
+  "main": "",
+  "authors": [
+    "parth mehta"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-ui-router": "0.3.1",
+    "jquery": "3.1.0",
+    "angular-material": "~1.0.9",
+    "material-refresh": "~0.1.0",
+    "mde-swipe-to-refresh": "~0.0.2",
+    "sw-toolbox": "~3.4.0",
+    "jquery-touchswipe": "^1.6.18"
+  }
+}
